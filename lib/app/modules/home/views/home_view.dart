@@ -63,7 +63,7 @@ class ProductsList extends StatelessWidget {
                 tag: controller.productImages[index],
                 child: Container(
                   width: Get.width * .43,
-                  height: Get.height * .42,
+                  height: Get.height * .43,
                   decoration: BoxDecoration(
                       borderRadius: BorderRadius.circular(KRaduis),
                       color: Colors.grey.shade100),
