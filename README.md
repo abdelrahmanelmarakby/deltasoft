@@ -1,6 +1,6 @@
 # deltasoft
 
-![ScreenShot](https://raw.githubusercontent.com/i-saumitra/Voice-controlled-MP3-Player/master/screenshot.jpg)
+![ScreenShot](https://raw.githubusercontent.com/abdelrahmanelmarakby/deltasoft/master/advanced.jpg)
 
 ## Getting Started
 
